@@ -1,8 +1,3 @@
-var io = require('socket.io', {
-        transports: ['websocket']
-    })(http);
-
-
 var ws_s = require('websocket').server;
 var http = require('http');
 var fs   = require('fs');
