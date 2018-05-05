@@ -1,4 +1,4 @@
-var ws_s = require('websocket').server;
+//var ws_s = require('websocket').server;
 
 
 //  OpenShift sample Node application
