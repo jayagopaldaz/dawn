@@ -1,3 +1,6 @@
+var ws_s = require('websocket').server;
+
+
 //  OpenShift sample Node application
 var express = require('express'),
     app     = express(),
